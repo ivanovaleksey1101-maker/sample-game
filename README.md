@@ -1,2 +1,2 @@
 # sample-game
-It just project.
+It just my sample game.
