@@ -1,2 +1,2 @@
 # sample-game
-It just my sample game.
+It just my russian sample game.
