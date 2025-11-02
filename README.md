@@ -17,3 +17,4 @@ Cons:
 
 # About project updates
 This is the final version (in my opinion) of this project, but if you think it's not finished, then finish it.
+For example, you can translate my game or improve the game balance (I set it to almost random).
